@@ -27,7 +27,7 @@ public class TriangleArea {
 				writer.printf("%.2f\n", totalArea);
 				
 			} else {
-				writer.println("Invalid triangle");
+				writer.println("Invalid triangle!");
 			}
 		
 		}
